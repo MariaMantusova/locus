@@ -1,0 +1,13 @@
+.inspiration__rectangle {
+    background-image: url("../../../images/inspiration__background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 626px;
+    max-height: 584px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: 2;
+    grid-row: 1/-1;
+}

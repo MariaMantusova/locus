@@ -1,0 +1,10 @@
+.inspiration__title {
+    color: #1C2323;
+    grid-column: 1;
+    grid-row: 1;
+    font-weight: 800;
+    font-size: 53px;
+    line-height: 79px;
+    max-width: 510px;
+    margin: 25px 0 0;
+}

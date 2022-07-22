@@ -1,0 +1,8 @@
+.how-it-works {
+    padding: 90px 0 0;
+    max-width: 1236px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

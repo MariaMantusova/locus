@@ -1,0 +1,8 @@
+.inspiration {
+    display: grid;
+    grid-template-columns: 557px 626px;
+    column-gap: 53px;
+    grid-template-rows: 250px 135px 130px;
+    row-gap: 37px;
+    padding: 79px 0 0;
+}
