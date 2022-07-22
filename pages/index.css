@@ -25,3 +25,7 @@
 @import url(../blocks/how-it-works/__image/how-it-works__image.css);
 @import url(../blocks/how-it-works/__round/how-it-works__round.css);
 @import url(../blocks/how-it-works/__rectangle/how-it-works__rectangle.css);
+@import url(../blocks/mission/mission.css);
+@import url(../blocks/mission/__image/mission__image.css);
+@import url(../blocks/mission/__title/mission__title.css);
+@import url(../blocks/mission/__text/mission__text.css);

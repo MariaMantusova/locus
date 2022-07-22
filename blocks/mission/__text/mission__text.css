@@ -1,0 +1,11 @@
+.mission__text {
+    grid-row: 2;
+    grid-column: 2;
+    margin: 0;
+    max-width: 531px;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 34px;
+    color: #486958;
+
+}

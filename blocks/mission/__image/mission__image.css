@@ -1,0 +1,6 @@
+.mission__image {
+    max-width: 482px;
+    max-height: 488px;
+    grid-column: 1;
+    grid-row: 1/2;
+}

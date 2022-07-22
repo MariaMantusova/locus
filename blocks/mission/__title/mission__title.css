@@ -1,0 +1,10 @@
+.mission__title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+    color: #1C2323;
+    max-width: 365px;
+    margin: 0;
+    grid-row: 1;
+    grid-column: 2;
+}

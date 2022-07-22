@@ -1,0 +1,12 @@
+.mission {
+    max-width: 1210px;
+    max-height: 488px;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 482px 531px;
+    grid-template-rows: 135px 315px;
+    padding: 113px 0 0;
+    column-gap: 107px;
+    row-gap: 38px;
+    margin: 0 auto;
+}
