@@ -2,6 +2,9 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/button/button.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/line/line.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__logo/__image/header__logo__image.css);
@@ -16,7 +19,6 @@
 @import url(../blocks/inspiration/__image/inspiration__image.css);
 @import url(../blocks/button/_place/button_place_inspiration.css);
 @import url(../blocks/how-it-works/how-it-works.css);
-@import url(../blocks/how-it-works/__title/how-it-works__title.css);
 @import url(../blocks/how-it-works/__subtitle/how-it-works__subtitle.css);
 @import url(../blocks/how-it-works/__video/how-it-works__video.css);
 @import url(../blocks/how-it-works/__video/__description/how-it-works__video__description.css);
@@ -29,3 +31,11 @@
 @import url(../blocks/mission/__image/mission__image.css);
 @import url(../blocks/mission/__title/mission__title.css);
 @import url(../blocks/mission/__text/mission__text.css);
+@import url(../blocks/project/project.css);
+@import url(../blocks/project/__subtitle/project__subtitle.css);
+@import url(../blocks/project/__cards/project__cards.css);
+@import url(../blocks/project/__card/project__card.css);
+@import url(../blocks/project/__card/__title/project__card__title.css);
+@import url(../blocks/project/__card/__subtitle/project__card__subtitle.css);
+@import url(../blocks/project/__card/__image/project__card__image.css);
+@import url(../blocks/project/__card/__image/_place/project__card__image_place_top.css);

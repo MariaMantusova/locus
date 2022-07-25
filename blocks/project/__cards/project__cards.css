@@ -1,0 +1,12 @@
+.project__cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(338px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(481px, 1fr));
+    padding: 0;
+    margin: 70px 0 0;
+    list-style: none;
+    max-width: 1210px;
+    width: 100%;
+    justify-items: center;
+    gap: 93px;
+}

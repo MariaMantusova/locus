@@ -1,10 +1,7 @@
 .inspiration__text {
-    font-weight: 400;
-    font-size: 23px;
-    line-height: 34px;
-    color: #404242;
     margin: 0;
     max-width: 557px;
     grid-column: 1;
     grid-row: 2;
+    text-align: start;
 }
