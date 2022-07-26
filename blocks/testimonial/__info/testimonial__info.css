@@ -1,0 +1,10 @@
+.testimonial__info {
+    max-width: 1210px;
+    width: 100%;
+    display: flex;
+    max-height: 525px;
+    margin: 0;
+    background-color: #CCF0E6;
+    position: relative;
+    z-index: -1;
+}

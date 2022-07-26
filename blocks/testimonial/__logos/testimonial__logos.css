@@ -1,0 +1,9 @@
+.testimonial__logos {
+    display: grid;
+    grid-template-columns: 179px 178px 222px 149px;
+    max-width: 934px;
+    width: 100%;
+    gap: 68px;
+    align-items: center;
+    margin: 17px 0 47px;
+}

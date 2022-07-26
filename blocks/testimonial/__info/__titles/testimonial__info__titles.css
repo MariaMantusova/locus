@@ -1,0 +1,7 @@
+.testimonial__info__titles {
+    max-width: 615px;
+    display: flex;
+    gap: 88px;
+    margin: 38px 0 92px 0;
+    max-height: 150px;
+}
