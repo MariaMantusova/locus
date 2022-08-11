@@ -19,14 +19,14 @@
             <a class="header__link" href="#">Location</a>
             <a class="header__link" href="#">About Us</a>
         </nav>
-        <a class="header__button" href="#">Sign Up</a>
+        <button type="button" class="header__button">Sign Up</button>
     </header>
     <main class="main">
         <section class="inspiration">
             <h1 class="section-title inspiration__title">Get&nbsp;the&nbsp;inspiration of interior design here</h1>
             <p class="section-subtitle inspiration__text">architecture not only about engineering, it even lands to art
                 and aesthetics. With us, you will get a residentical design with an extraordinary touch of art.</p>
-            <a class="button button_place_inspiration" href="#">Let’s go</a>
+            <button class="button button_place_inspiration">Let’s go</button>
             <div class="inspiration__rectangle">
                 <img class="inspiration__image" src="./images/inspiration__image.png" alt="decor">
             </div>
@@ -87,26 +87,40 @@
                 <img class="testimonial__logo" src="./images/testimonial__zalora.png" alt="logo zalora">
                 <img class="testimonial__logo" src="./images/testimonial__geulis.png" alt="logo geulis">
             </div>
-            <div class="testimonial__info">
-                <img class="testimonial__info__image" src="./images/info__image.jpg" alt="girl in room">
-                <div class="testimonial__info__content">
-                    <div class="testimonial__info__titles">
-                        <h3 class="testimonial__info__title"><span class="span-accent">105</span> project&nbsp;done</h3>
-                        <h3 class="testimonial__info__title"><span class="span-accent">12</span> years&nbsp;of
-                            experience</h3>
-                        <h3 class="testimonial__info__title"><span class="span-accent">10+</span> big&nbsp;company
-                            partnership
-                        </h3>
-                    </div>
-                    <img class="testimonial__info__quotes" src="./images/info__quotes.png" alt="quotes">
-                    <blockquote class="testimonial__info__blockquote">"Not able to tell you how happy I am with interior
-                        design.
-                        Interior&nbsp;design has completely surpassed our expectations. Interior design saved my business.
-                        Interior&nbsp;design is worth much more than I paid."
-                        <p class="testimonial__info__author">- Roscoe</p>
-                    </blockquote>
+        </section>
+        <section class="info">
+            <img class="info__image" src="./images/info__image.jpg" alt="girl in room">
+            <div class="info__content">
+                <div class="info__titles">
+                    <h3 class="info__title"><span class="span-accent">105</span> project&nbsp;done</h3>
+                    <h3 class="info__title"><span class="span-accent">12</span> years&nbsp;of
+                        experience</h3>
+                    <h3 class="info__title"><span class="span-accent">10+</span> big&nbsp;company
+                        partnership
+                    </h3>
                 </div>
+                <img class="info__quotes" src="./images/info__quotes.png" alt="quotes">
+                <blockquote class="info__blockquote">"Not able to tell you how happy I am with interior
+                    design. Interior&nbsp;design has completely surpassed our expectations.
+                    Interior design saved my business. Interior&nbsp;design is worth much more than I paid."
+                    <p class="info__author">- Roscoe</p>
+                </blockquote>
             </div>
+        </section>
+        <section class="contact-us">
+            <div class="contact-us__content">
+                <h2 class="section-title">Contact Us</h2>
+                <p class="contact-us__subtitle">Have any questions? Want help before getting started?</p>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+            <form class="contact-us__form">
+                <input type="text" class="contact-us__form-item" name="name" placeholder="Full name">
+                <input type="email" class="contact-us__form-item" name="email" placeholder="Email address">
+                <textarea type="text" class="contact-us__form-item-description" name="description"
+                          placeholder="Description"></textarea>
+                <button class="button button_place_contact-us">Send now</button>
+            </form>
         </section>
     </main>
 </div>

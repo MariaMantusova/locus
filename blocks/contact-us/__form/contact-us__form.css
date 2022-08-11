@@ -1,0 +1,9 @@
+.contact-us__form {
+    display: flex;
+    flex-direction: column;
+    max-width: 832px;
+    width: 100%;
+    border: 1px solid #486958;
+    box-sizing: border-box;
+    padding: 0 41px 26px;
+}

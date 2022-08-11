@@ -1,14 +1,11 @@
 .button {
     background-color: #58A9A5;
     border-radius: 20px 20px 20px 0;
-    max-width: 203px;
-    max-height: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 203px;
+    height: 60px;
     color: #FFFFFF;
-    text-decoration: none;
     font-weight: 700;
     font-size: 19px;
     line-height: 28px;
+    border: none;
 }

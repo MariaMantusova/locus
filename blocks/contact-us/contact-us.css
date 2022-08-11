@@ -1,0 +1,6 @@
+.contact-us {
+    max-width: 1210px;
+    padding: 180px 0 250px;
+    display: flex;
+    justify-content: space-between;
+}

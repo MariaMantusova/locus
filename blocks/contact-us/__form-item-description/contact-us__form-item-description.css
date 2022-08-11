@@ -1,0 +1,9 @@
+.contact-us__form-item-description {
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 29px;
+    color: #486958;
+    border: none;
+    margin: 28px 0 20px;
+    max-width: 500px;
+}

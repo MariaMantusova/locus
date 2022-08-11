@@ -1,0 +1,10 @@
+.contact-us__form-item {
+    border: none;
+    border-bottom: 1px solid #000000;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 29px;
+    color: #486958;
+    margin-top: 43px;
+    padding-bottom: 19px;
+}
