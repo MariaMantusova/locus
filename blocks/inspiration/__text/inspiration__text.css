@@ -1,7 +1,11 @@
 .inspiration__text {
-    margin: 0;
+    margin: 0 0 37px;
     max-width: 557px;
-    grid-column: 1;
-    grid-row: 2;
     text-align: start;
+}
+
+@media screen and (max-width: 1280px) {
+    .inspiration__text {
+      max-width: 500px;
+    }
 }

@@ -11,3 +11,10 @@
     top: 147px;
     left: 760px;
 }
+
+
+@media screen and (max-width: 1280px) {
+    .how-it-works__round {
+        left: 550px;
+    }
+}

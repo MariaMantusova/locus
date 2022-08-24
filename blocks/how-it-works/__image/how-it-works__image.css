@@ -1,5 +1,13 @@
 .how-it-works__image {
-    max-height: 263px;
+    min-height: 263px;
     max-width: 797px;
     position: relative;
+    object-fit: cover;
+}
+
+
+@media screen and (max-width: 1280px) {
+    .how-it-works__image {
+        max-width: 580px;
+    }
 }

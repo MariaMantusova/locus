@@ -2,3 +2,10 @@
     max-height: 542px;
     max-width: 542px;
 }
+
+@media screen and (max-width: 1280px) {
+    .inspiration__image {
+        max-width: 300px;
+        min-height: 300px;
+    }
+}

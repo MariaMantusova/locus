@@ -1,4 +1,12 @@
 .info__image {
     max-height: 525px;
     max-width: 461px;
+    object-fit: cover;
+}
+
+
+@media screen and (max-width: 1280px) {
+    .info__image {
+        max-width: 350px;
+    }
 }

@@ -1,6 +1,10 @@
 .inspiration__title {
-    grid-column: 1;
-    grid-row: 1;
     max-width: 510px;
-    margin: 25px 0 0;
+    margin: 25px 0 37px;
+}
+
+@media screen and (max-width: 1280px) {
+    .inspiration__title {
+        max-width: 500px;
+    }
 }

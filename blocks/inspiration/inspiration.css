@@ -1,8 +1,14 @@
 .inspiration {
-    display: grid;
-    grid-template-columns: 557px 626px;
+    display: flex;
     column-gap: 53px;
-    grid-template-rows: 250px 135px 130px;
-    row-gap: 37px;
     padding: 79px 0 0;
+    margin: 0 auto;
+    max-width: 1236px;
+    width: 100%;
+}
+
+@media screen and (max-width: 1280px) {
+    .inspiration {
+        max-width: 1020px;
+    }
 }

@@ -1,14 +1,22 @@
 .header__button {
-    max-width: 200px;
+    width: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
     background-color: #58A9A5;
     border-radius: 15px;
     color: #FFFFFF;
     font-size: 19px;
-    line-height: 28px;
+    line-height: 1.4;
     text-decoration: none;
     border: 0;
+    padding: 15px 0;
+}
+
+@media screen and (max-width: 1080px) {
+    .header__button {
+        width: 150px;
+        padding: 7px 0;
+        font-size: 14px;
+    }
 }

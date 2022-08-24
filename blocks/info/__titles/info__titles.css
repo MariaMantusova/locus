@@ -2,6 +2,13 @@
     max-width: 615px;
     display: flex;
     gap: 88px;
-    margin: 38px 0 92px 0;
+    margin: 38px 0 92px;
     max-height: 150px;
+}
+
+
+@media screen and (max-width: 1280px) {
+    .info__titles {
+        margin-bottom: 60px;
+    }
 }
