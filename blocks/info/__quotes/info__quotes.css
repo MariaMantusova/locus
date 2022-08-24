@@ -7,12 +7,20 @@
     z-index: 0;
 }
 
-
 @media screen and (max-width: 1280px) {
     .info__quotes {
         max-width: 60px;
         max-height: 60px;
         right: 580px;
         top: 220px
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .info__quotes {
+        max-width: 60px;
+        max-height: 60px;
+        right: 270px;
+        top: 60px;
     }
 }

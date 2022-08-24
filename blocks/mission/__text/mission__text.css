@@ -5,7 +5,12 @@
     max-width: 531px;
     font-weight: 500;
     font-size: 23px;
-    line-height: 34px;
+    line-height: 1.5;
     color: #486958;
+}
 
+@media screen and (max-width: 1080px) {
+    .mission__text {
+        font-size: 20px;
+    }
 }

@@ -12,3 +12,9 @@
         margin-bottom: 60px;
     }
 }
+
+@media screen and (max-width: 1080px) {
+    .info__titles {
+        display: none;
+    }
+}

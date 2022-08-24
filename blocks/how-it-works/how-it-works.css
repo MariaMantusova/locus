@@ -13,3 +13,9 @@
         max-width: 1020px;
     }
 }
+
+@media screen and (max-width: 1080px) {
+    .how-it-works {
+        max-width: 720px;
+    }
+}

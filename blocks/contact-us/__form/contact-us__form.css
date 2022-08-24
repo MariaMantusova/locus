@@ -7,3 +7,9 @@
     box-sizing: border-box;
     padding: 0 41px 26px;
 }
+
+@media screen and (max-width: 1080px) {
+    .contact-us__form {
+        max-width: 600px;
+    }
+}

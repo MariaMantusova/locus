@@ -9,3 +9,9 @@
       max-width: 500px;
     }
 }
+
+@media screen and (max-width: 1080px) {
+    .inspiration__text {
+        max-width: 100%;
+    }
+}

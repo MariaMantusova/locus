@@ -18,3 +18,12 @@
         column-gap: 67px;
     }
 }
+
+@media screen and (max-width: 1080px) {
+    .mission {
+        max-width: 700px;
+        column-gap: 30px;
+        grid-template-rows: 105px 270px;
+        row-gap: 30px;
+    }
+}

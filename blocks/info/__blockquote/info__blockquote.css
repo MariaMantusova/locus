@@ -7,3 +7,11 @@
     color: #486958;
     margin: 0;
 }
+
+@media screen and (max-width: 1080px) {
+    .info__blockquote {
+        max-width: 270px;
+        margin-top: 80px;
+        font-size: 17px;
+    }
+}

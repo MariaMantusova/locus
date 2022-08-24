@@ -5,9 +5,14 @@
     object-fit: cover;
 }
 
-
 @media screen and (max-width: 1280px) {
     .how-it-works__image {
         max-width: 580px;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .how-it-works__image {
+        max-width: 50%;
     }
 }

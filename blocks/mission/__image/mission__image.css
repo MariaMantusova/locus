@@ -3,4 +3,11 @@
     max-height: 488px;
     grid-column: 1;
     grid-row: 1/2;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 1080px) {
+    .mission__image {
+        width: 100%;
+    }
 }

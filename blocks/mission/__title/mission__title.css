@@ -1,10 +1,16 @@
 .mission__title {
     font-weight: 700;
     font-size: 30px;
-    line-height: 45px;
+    line-height: 1.5;
     color: #1C2323;
     max-width: 365px;
     margin: 0;
     grid-row: 1;
     grid-column: 2;
+}
+
+@media screen and (max-width: 1080px) {
+    .mission__title {
+        font-size: 24px;
+    }
 }
