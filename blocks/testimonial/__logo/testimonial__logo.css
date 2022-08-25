@@ -2,3 +2,10 @@
     max-width: 100%;
     max-height: 135px;
 }
+
+@media screen and (max-width: 720px) {
+    .testimonial__logo {
+        max-width: 160px;
+        object-fit: contain;
+    }
+}

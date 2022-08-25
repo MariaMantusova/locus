@@ -6,6 +6,13 @@
     color: #FFFFFF;
     font-weight: 700;
     font-size: 19px;
-    line-height: 28px;
+    line-height: 1.4;
     border: none;
+}
+
+@media screen and (max-width: 720px) {
+    .button {
+        font-size: 16px;
+        width: 160px;
+    }
 }

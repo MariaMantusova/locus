@@ -27,3 +27,12 @@
         row-gap: 30px;
     }
 }
+
+@media screen and (max-width: 720px) {
+    .mission {
+        max-width: 500px;
+        display: flex;
+        flex-direction: column;
+        padding-top: 80px;
+    }
+}

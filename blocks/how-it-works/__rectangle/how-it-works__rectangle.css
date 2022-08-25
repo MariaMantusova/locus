@@ -5,3 +5,9 @@
     font-size: 35px;
     line-height: 1;
 }
+
+@media screen and (max-width: 720px) {
+    .how-it-works__rectangle {
+        font-size: 27px;
+    }
+}

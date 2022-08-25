@@ -10,8 +10,18 @@
 
 @media screen and (max-width: 1080px) {
     .testimonial__logos {
-        max-width: 700px;
+        max-width: 100%;
         grid-template-columns: 140px 140px 180px 120px;
         gap: 40px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .testimonial__logos {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        gap: 30px;
+        align-items: center;
+        justify-items: center;
     }
 }

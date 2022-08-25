@@ -16,3 +16,9 @@
         max-width: 50%;
     }
 }
+
+@media screen and (max-width: 720px) {
+    .how-it-works__image {
+        display: none;
+    }
+}

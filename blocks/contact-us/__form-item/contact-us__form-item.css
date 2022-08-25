@@ -3,8 +3,16 @@
     border-bottom: 1px solid #000000;
     font-weight: 500;
     font-size: 19px;
-    line-height: 29px;
+    line-height: 1.5;
     color: #486958;
     margin-top: 43px;
     padding-bottom: 19px;
+}
+
+@media screen and (max-width: 720px) {
+    .contact-us__form-item {
+        font-size: 15px;
+        margin-top: 27px;
+        padding-bottom: 11px;
+    }
 }

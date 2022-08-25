@@ -3,3 +3,10 @@
     padding: 53px 0 0;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 720px) {
+    .how-it-works__video-description {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}

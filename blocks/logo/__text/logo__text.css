@@ -5,3 +5,9 @@
     color: #58A9A5;
     margin: 0;
 }
+
+@media screen and (max-width: 720px) {
+    .logo__text {
+        display: none;
+    }
+}
