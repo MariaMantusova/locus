@@ -23,9 +23,8 @@
     }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 520px) {
     .info__quotes {
-        right: 350px;
-        top: 60px;
+        right: 220px;
     }
 }

@@ -25,3 +25,11 @@
         justify-items: center;
     }
 }
+
+@media screen and (max-width: 520px) {
+    .testimonial__logos {
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(4, 1fr);
+        gap: 20px;
+    }
+}

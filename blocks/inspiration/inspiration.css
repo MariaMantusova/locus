@@ -24,3 +24,10 @@
         max-width: 500px;
     }
 }
+
+@media screen and (max-width: 520px) {
+    .inspiration {
+        max-width: 300px;
+        padding-top: 50px;
+    }
+}

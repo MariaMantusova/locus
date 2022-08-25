@@ -16,3 +16,11 @@
         width: 160px;
     }
 }
+
+@media screen and (max-width: 520px) {
+    .button {
+        font-size: 14px;
+        width: 120px;
+        height: 40px;
+    }
+}

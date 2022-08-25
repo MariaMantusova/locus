@@ -29,3 +29,10 @@
         padding: 90px 0 150px;
     }
 }
+
+@media screen and (max-width: 520px) {
+    .contact-us {
+        max-width: 300px;
+        padding: 60px 0 30px;
+    }
+}

@@ -29,3 +29,10 @@
         min-height: 400px;
     }
 }
+
+@media screen and (max-width: 520px) {
+    .info {
+        max-width: 300px;
+        min-height: 400px;
+    }
+}

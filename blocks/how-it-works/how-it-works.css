@@ -25,3 +25,10 @@
         max-width: 500px;
     }
 }
+
+@media screen and (max-width: 520px) {
+    .how-it-works {
+        max-width: 300px;
+        padding-top: 60px;
+    }
+}
