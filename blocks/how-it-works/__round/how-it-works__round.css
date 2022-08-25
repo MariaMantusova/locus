@@ -33,7 +33,6 @@
 
 @media screen and (max-width: 520px) {
     .how-it-works__round {
-        top: 110px;
         left: 140px;
     }
 }

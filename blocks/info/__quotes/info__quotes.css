@@ -23,6 +23,12 @@
     }
 }
 
+@media screen and (max-width: 720px) {
+    .info__quotes {
+        right: 350px;
+    }
+}
+
 @media screen and (max-width: 520px) {
     .info__quotes {
         right: 220px;
