@@ -11,7 +11,7 @@ _____
 * Структура Nested
 * Верстка форм
 
-* [Locus можно посмотреть здесь](https://mariamantusova.github.io/locus/);
+[Locus можно посмотреть здесь](https://mariamantusova.github.io/locus/)
 
 Планы по доработке проекта: 
 
